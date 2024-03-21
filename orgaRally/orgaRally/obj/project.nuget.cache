@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxvdUQ8F6bSDZQalxFmU890tSyyjlz4lATa/+DC5SSXuEh1ovtqUEr+t9m+Rh9opfwjpqejc6oziRiHJkwHX+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oliko\\source\\repos\\OrgaRally\\orgaRally\\orgaRally.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oliko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

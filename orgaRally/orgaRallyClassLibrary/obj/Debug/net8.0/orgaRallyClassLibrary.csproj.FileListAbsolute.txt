@@ -1,0 +1,12 @@
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\bin\Debug\net8.0\orgaRallyClassLibrary.deps.json
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\bin\Debug\net8.0\orgaRallyClassLibrary.dll
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\bin\Debug\net8.0\orgaRallyClassLibrary.pdb
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.AssemblyInfo.cs
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.dll
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\refint\orgaRallyClassLibrary.dll
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.pdb
+C:\Users\oliko\source\repos\orgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\ref\orgaRallyClassLibrary.dll
+C:\Users\oliko\source\repos\OrgaRally\orgaRallyClassLibrary\obj\Debug\net8.0\orgaRallyClassLibrary.csproj.AssemblyReference.cache
